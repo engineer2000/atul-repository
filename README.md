@@ -1,2 +1,3 @@
 # atul-repository
-this is my first git
+This is my first git
+Author - Atul Kumaar
